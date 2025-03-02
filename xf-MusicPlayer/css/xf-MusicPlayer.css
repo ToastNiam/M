@@ -10,21 +10,21 @@
 #xf-MusicPlayer .xf-original {
   --playerColor-1: #fff;
   --playerColor-2: #000;
-  --playerColor-3: #5c00ff;
+  --playerColor-3: #BFE3FF;
   --playerColor-4: #b3c4ec;
-  --playerColor-5: #90a6da;
-  --playerColor-6: #8b52ec;
-  --playerColor-7: #ffc0cb;
+  --playerColor-5: #92bbee;
+  --playerColor-6: #52aeec;
+  --playerColor-7: #a8cbfa;
   --playerColor-8: #5880dc;
   --playerColor-9: #efefef;
-  --playerColor-10: #a17eff;
-  --playerColor-11: #ffc5fe;
-  --playerColor-12: #84d6ff;
+  --playerColor-10: #ff7e7e;
+  --playerColor-11: #c5f2ff;
+  --playerColor-12: #ff84e2;
   --playerColor-rgab-1: rgba(0, 0, 0, 0.3);
   --playerColor-rgab-2: rgba(255, 255, 255, 0.8);
-  --playerShadow-1: 2px 2px 5px 0 rgba(139, 126, 192, 0.35);
+  --playerShadow-1: 2px 2px 5px 0 rgba(126, 170, 192, 0.35);
   --playerShadow-2: -3.5px 3.5px 5px 0px rgba(255, 255, 255, 0.25), inset -3.5px 3.5px 7px 0px rgba(0, 0, 0, .25);
-  --playerTextShadow-1: 0 0 1.5px rgba(85, 0, 255, 0.3);
+  --playerTextShadow-1: 0 0 1.5px rgba(228, 239, 251, 0.8);
   --playerTextShadow-2: 0 0 1.5px rgba(255, 255, 255, 0.8);
 }
 #xf-MusicPlayer .xf-sky {
@@ -44,7 +44,7 @@
   --playerColor-rgab-2: rgba(255, 255, 255, 0.8);
   --playerShadow-1: 2px 2px 5px 0 rgba(126, 170, 192, 0.35);
   --playerShadow-2: -3.5px 3.5px 5px 0px rgba(255, 255, 255, 0.25), inset -3.5px 3.5px 7px 0px rgba(0, 0, 0, .25);
-  --playerTextShadow-1: 0 0 1.5px rgba(228, 239, 251, 0.3);
+  --playerTextShadow-1: 0 0 1.5px rgba(228, 239, 251, 0.8);
   --playerTextShadow-2: 0 0 1.5px rgba(255, 255, 255, 0.8);
 }
 #xf-MusicPlayer .xf-orange {
